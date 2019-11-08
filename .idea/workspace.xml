@@ -16,6 +16,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1THKHaYkVVmF4DweckMgCjFUjlP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -71,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573111493950</updated>
-      <workItem from="1573111495537" duration="2717000" />
+      <workItem from="1573111495537" duration="3500000" />
     </task>
     <servers />
   </component>
